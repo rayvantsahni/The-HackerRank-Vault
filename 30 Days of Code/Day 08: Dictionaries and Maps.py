@@ -19,6 +19,3 @@ while(True):
 
     except:
         break
-
-        
-    
